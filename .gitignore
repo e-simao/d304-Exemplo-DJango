@@ -1,0 +1,5 @@
+ambiente
+erick_django/.vscode
+erick_django/erick_django/__pycache__
+erick_django/home/__pycache__
+erick_django/db.sqlite3
